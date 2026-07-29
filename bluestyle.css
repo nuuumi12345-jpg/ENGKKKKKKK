@@ -4,6 +4,7 @@ header {
 
 body {
     background-color: rgb(23, 23, 70);
+    text-align: center;
 }
 
 a {
@@ -20,6 +21,7 @@ pre {
 
 h1 {
     color: aliceblue;
+    font-size: 25;
 }
 
 h2 {
